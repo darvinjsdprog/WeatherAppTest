@@ -1,0 +1,45 @@
+
+{
+    "coord": {
+        "lon": -75.9122,
+        "lat": 40.3437
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 9.98,
+        "feels_like": 7.13,
+        "temp_min": 5.79,
+        "temp_max": 12.09,
+        "pressure": 1018,
+        "humidity": 81
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.26,
+        "deg": 180,
+        "gust": 9.83
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1700227847,
+    "sys": {
+        "type": 2,
+        "id": 2009302,
+        "country": "US",
+        "sunrise": 1700221905,
+        "sunset": 1700257540
+    },
+    "timezone": -18000,
+    "id": 5207728,
+    "name": "Reading",
+    "cod": 200
+}
