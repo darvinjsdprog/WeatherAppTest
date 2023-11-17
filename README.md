@@ -11,5 +11,6 @@ The Weather api used is https://api.openweathermap.org
 
 
 # App Preview:
-https://github.com/darvinjsdprog/WeatherAppTest/blob/main/weather-forecast-test/Preview%20Content/RequestLocationPage.png
-https://github.com/darvinjsdprog/WeatherAppTest/blob/main/weather-forecast-test/Preview%20Content/HomePage.png
+![RequestLocationPage](https://github.com/darvinjsdprog/WeatherAppTest/blob/main/weather-forecast-test/Preview%20Content/RequestLocationPage.png)
+
+![HomePage](https://github.com/darvinjsdprog/WeatherAppTest/blob/main/weather-forecast-test/Preview%20Content/HomePage.png)
